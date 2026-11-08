@@ -1,8 +1,8 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** YOUR NAME  
-**Registration number:** YOUR REGISTRATION NUMBER  
-**Section:** YOUR SECTION  
+**Name:** TEJAS KATARAM 
+**Registration number:** 252U1R9064 
+**Section:** CSE GEN-AI 2A 304 S-024  
 
 **Live link:** Not deployed yet
 
