@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9064 
 **Section:** CSE GEN-AI 2A 304 S-024  
 
-**Live link:** Not deployed yet
+**Live API:** https://bdf-lab-3-k7kj.onrender.com
 
 ## How to run
 
